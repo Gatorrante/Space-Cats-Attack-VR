@@ -6,11 +6,14 @@ TagManager:
   tags:
   - Anchor
   - CityModule
+  - FxTemporaire
+  - Spawner
+  - Enemy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Enemy
   - Water
   - UI
   - 
